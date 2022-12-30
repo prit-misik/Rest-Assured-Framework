@@ -9,7 +9,8 @@ The examples contain the code for :
    6. Dynamic response handling Gson.
    7. Dynamic response handling jackson-databind.
    8. Use of request specification.
-   9. USe of Lombok to reduce boilerplate code
+   9. Use of Lombok to reduce boilerplate code
+   10. Use of Awaitility for waiting and polling for a response
 
 The main external dependencies used are :
   1. Rest Assured.
